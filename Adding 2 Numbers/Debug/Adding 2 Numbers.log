@@ -1,0 +1,6 @@
+﻿  Adding 2 Numbers.cpp
+E:\c++\Adding 2 Numbers\Adding 2 Numbers\Adding 2 Numbers.cpp(19,51): error C2039: 'unsef': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\iomanip(23): message : see declaration of 'std'
+E:\c++\Adding 2 Numbers\Adding 2 Numbers\Adding 2 Numbers.cpp(19,57): error C2143: syntax error: missing ')' before '<<'
+E:\c++\Adding 2 Numbers\Adding 2 Numbers\Adding 2 Numbers.cpp(19,56): error C3861: 'unsef': identifier not found
+E:\c++\Adding 2 Numbers\Adding 2 Numbers\Adding 2 Numbers.cpp(19,70): error C2059: syntax error: ')'
